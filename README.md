@@ -4,7 +4,7 @@ I made this project to experiment with mathematical formulas and object oriented
 
 ## Run live
 
-Run it live at [solar-system.iverson.io](http://solar-system.iverson.io)
+Run it live at [iverson.io/projects/solar-system](https://iverson.io/projects/solar-system)
 
 ## Download
 
